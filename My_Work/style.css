@@ -33,7 +33,7 @@ float: right;
     height: 200px;
 }
 .logo{
-    height: 150px;
+    height: 75px;
 }
 .main{
     grid-area: "main";
